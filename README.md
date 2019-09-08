@@ -1,0 +1,1 @@
+# vue-image-recognition
